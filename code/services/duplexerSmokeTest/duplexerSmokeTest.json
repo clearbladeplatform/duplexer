@@ -1,0 +1,12 @@
+{
+    "current_version": 1,
+    "dependencies": "log,duplexer",
+    "logging_enabled": "false",
+    "name": "duplexerSmokeTest",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "duplexerSmokeTest.js"
+}
